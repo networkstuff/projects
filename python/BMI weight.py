@@ -1,5 +1,6 @@
-# Author: Ivan V
-# purpose: presentation only: Checks your BMI weight.
+### Author: Ivan V
+### purpose: for educational/presentation purposes ONLY!
+### explanation: tip calculator
 
 
 class bold_color:
