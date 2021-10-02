@@ -1,6 +1,6 @@
 ### Author: Ivan V
 ### purpose: for educational/presentation purposes ONLY!
-### explanation: tip calculator
+### explanation: checks the weight and height you put in VS the BMI
 
 
 class bold_color:

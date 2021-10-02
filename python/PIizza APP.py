@@ -1,6 +1,6 @@
 ### Author: Ivan V
 ### purpose: for educational/presentation purposes ONLY!
-### explanation: tip calculator
+### explanation: Calculates the total amount to tip
 
 print("Welcome to Python Pizza Deliveries!")
 size = input("What size pizza do you want? S, M, or L ")

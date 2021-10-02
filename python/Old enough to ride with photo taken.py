@@ -1,3 +1,7 @@
+### Author: Ivan V
+### purpose: for educational/presentation purposes ONLY!
+### explanation: tall enough to ride + age and if you want a photo that was taken.
+
 height = int(input("what is your hight: "))
 bill = 0
 
@@ -9,6 +13,8 @@ if height >= 120:
     elif age <= 18:
         bill = 7
         print("Youth tickets are $7.")
+    elif age >= 45 and age <= 55:
+        print("Ride is free")
     else:
         bill = 12
         print("Adult tickets are $12")

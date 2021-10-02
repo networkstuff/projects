@@ -1,5 +1,6 @@
-# Author: Ivan V
-# objective: For presentation purpose only
+### Author: Ivan V
+### objective: For presentation purpose only
+### explanation: checks if the year you put in is a leap year.
 
 year = int(input("Which year do you want to check? "))
 
