@@ -27,11 +27,11 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.")
 
-question1 = input("are you going to left or right: ")
+question1 = input("are you going to left or right: ").lower()
 if question1 == "left":
-    question2 = input("are you going to swim or wait: ")
+    question2 = input("are you going to swim or wait: ").lower()
     if question2 == "wait":
-        question3 = input("which door red , blue or yellow: ")
+        question3 = input("which door red , blue or yellow: ").lower()
         if question3 == "red":
             print("Burned by fire. Game Over")
         elif question3 == "blue":
