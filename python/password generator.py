@@ -1,4 +1,7 @@
-#password generator
+### Author: Ivan V
+### purpose: for educational/presentation purposes ONLY!
+### explanation: password manager, simply takes user input and randomly generates a password. 
+### There are 2 ways to make it as such i have left them below.
 
 import random
 letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u',
