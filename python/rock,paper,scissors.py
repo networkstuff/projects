@@ -33,12 +33,13 @@ a = int(Response)
 images = [rock, paper, scissors]
 computerselected = random.randint(0, 2)
 
-if a >= 3:
+if a >= 3 or a < 0:
     print("You typed an invalid number, you lose!")
     exit(50)
 
 elif a == 0:
     print(rock)
+    print("Computer has selected: ")
     print(images[computerselected])
 
     if computerselected == 1 and a == 0:
@@ -55,6 +56,7 @@ elif a == 0:
 
 elif a == 1:
     print(paper)
+    print("Computer has selected: ")
     print(images[computerselected])
 
     if computerselected == 2 and a == 1:
@@ -69,6 +71,7 @@ elif a == 1:
 
 elif a == 2:
     print(scissors)
+    print("Computer has selected: ")
     print(images[computerselected])
 
     if computerselected == 0 and a == 2:
