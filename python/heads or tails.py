@@ -1,3 +1,7 @@
+### Author: Ivan V
+### purpose: for educational/presentation purposes ONLY!
+### explanation: simple heads or tails xD
+
 import random
 
 input("heads or tails?\n")
