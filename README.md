@@ -4,7 +4,7 @@ Hello, thank you for visting my repository.
 
 The repository named projects is simply used for educational or presentation purpose only, some of the projects are ether from classes taken in udemy or self created.
 
-*********************Python
+*Python*
 
 For python courses i used in udemy the following 2 courses:
 
@@ -13,7 +13,7 @@ For python courses i used in udemy the following 2 courses:
 
 
 
-*********************JAVA
+*JAVA*
 
 For Java courses i used in udemy the following course:
 
@@ -24,8 +24,7 @@ Java Programming Masterclass updated to Java 17 by Tim Buchalka
 
 
 
-
-*********************JSON
+*JSON*
 
 JSON files are self created by myself to apply simple operations in azure
 
@@ -35,7 +34,7 @@ JSON files are self created by myself to apply simple operations in azure
 
 
 
-*********************Scripting/Bash
+*Scripting/Bash*
 
 The bash scripts are self created by myself to apply simple operations
 
