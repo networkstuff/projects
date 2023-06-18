@@ -1,4 +1,4 @@
-# Thank you for visting me repository! Please read my first!
+# Thank you for visting my projects! Please read me first!
 
 Hello,
 
