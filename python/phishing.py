@@ -12,3 +12,22 @@ a = os.system(f'ping -c 3 {phishing_site} | head --lines 4 | tail -1 > phishingi
 os.system(f'whois {phishing_site} | grep abuse > abuseinformation.txt')
 #a print is done to tell the user that the python script is done
 print("commands are done")
+
+
+#####################################################################
+
+
+#/bin/bash
+
+
+wait
+
+mkdir phishing
+
+wait
+
+mv phishingip.txt > phishing
+
+wait
+
+mv abuseinformation.txt > phishing
