@@ -19,9 +19,6 @@ print("commands are done")
 
 #/bin/bash
 
-
-wait
-
 mkdir phishing
 
 wait
