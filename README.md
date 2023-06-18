@@ -1,6 +1,6 @@
-# projects
+# Thank you for visting my repository! Please read my first!
 
-Hello, thank you for visting my repository.
+Hello,
 
 The repository named projects is simply used for educational or presentation purpose only, some of the projects are ether from classes taken in udemy or self created.
 
