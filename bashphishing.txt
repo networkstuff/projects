@@ -1,17 +1,13 @@
 #/bin/bash
 
-# you will need to put the python version you have
-python3.8 phishing.py
-
 wait
 
 mkdir phishing
 
 wait
 
-# here you will need to put the directory of which you have the phishing fil
-mv phishingip.txt phishing
+mv phishingip.txt > phishing
 
 wait
-# here you will need to put the directory of which you have the phishing file
-mv abuseinformation.txt phishing
+
+mv abuseinformation.txt > phishing
